@@ -5,7 +5,7 @@ import random
 TYPESPEED = .025
 rannum = 0
 guesses = 0
-name = ''
+name = ''  # soon
 game = 0
 score = 0
 playagain = True
